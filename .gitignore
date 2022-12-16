@@ -1,8 +1,0 @@
-*.pyc
-*.egg-info
-*.png
-dist/
-pyenv/
-*venv/
-.env
-generation-*.pb.json
