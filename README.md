@@ -1,1 +1,1 @@
-obsolete.
+-> [github.com/kamangir/blue-stability](https://github.com/kamangir/blue-stability)
